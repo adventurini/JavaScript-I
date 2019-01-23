@@ -41,4 +41,6 @@ const triple = exampleArray.map(num=> num *3);
 
 console.log(triple);
 
+//final commit
+
 
